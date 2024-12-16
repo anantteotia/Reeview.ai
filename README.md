@@ -81,15 +81,7 @@ Ensure you have the following installed:
    cd ../frontend
    npm install
    ```
-
-4. Set up the environment variables:
-   - Create a `.env` file in the `backend` directory.
-   - Add the following variables:
-     ```
-     MONGO_URI=your_mongo_db_connection_string
-     API_KEY=your_api_key
-     ```
-
+   
 5. Run the application:
    - Start the backend:
      ```bash
@@ -101,8 +93,6 @@ Ensure you have the following installed:
      cd ../frontend
      npm start
      ```
-
-6. Access the application at `http://localhost:3000`.
 
 ---
 
@@ -149,20 +139,6 @@ We welcome contributions from the community! To contribute:
 3. Commit your changes and push to your fork.
 4. Open a pull request on the main repository.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-- **Email**: anant.teotia@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/anant-teotia)
 
 ---
 
